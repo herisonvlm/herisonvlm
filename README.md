@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋,
+My name is Herison! I am a Bioinformatician.
 
-<!--
-**herisonvlm/herisonvlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Bachelor's Degree in Biomedicine.
+* 🎓 Master's Degree in Bioinformatics at the Federal University of Technology – Paraná (UTFPR).
+* 📖 Pursuing PhD in Genetics and Molecular Biology at State University of Londrina (UEL).
+* 🧬 Currently developing research in plant genomics.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I build with
+<div style="display: inline_block">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+<img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+<img align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" />
+</div>
+
+## General Informations (Based on public repositories)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=herisonvlm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Herison Muniz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herisonvlm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{herisonvlm}/count.svg" /></p> 
+<br></div>
