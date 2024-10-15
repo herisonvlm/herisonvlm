@@ -6,8 +6,6 @@ My name is Herison! I am a Bioinformatician.
 * 📖 Pursuing PhD in Genetics and Molecular Biology at State University of Londrina (UEL).
 * 🧬 Currently developing research in plant genomics.
 
-
-
 ## I build with
 <div style="display: inline_block">
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
