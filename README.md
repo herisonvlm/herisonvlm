@@ -4,7 +4,7 @@ My name is Herison! I am a Bioinformatician.
 
 * 🎓 Bachelor's Degree in Biomedicine.
 * 🎓 Master's Degree in Bioinformatics at the Federal University of Technology – Paraná (UTFPR).
-* 📖 Pursuing PhD in Genetics and Molecular Biology at State University of Londrina (UEL).
+* 📖 Pursuing PhD in Genetics and Molecular Biology at the State University of Londrina (UEL).
 * 🧬 Currently developing research in plant genomics.
 
 ## I build with
